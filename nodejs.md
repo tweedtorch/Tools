@@ -7,7 +7,7 @@ Download and install from the [Node.js website](https://nodejs.org/en/). This wi
 Now install the node package `n`. This will be used to update `node` and `npm` in the future.
 
 ```
-npm install -g n
+$ npm install -g n
 ```
 
 
@@ -18,6 +18,6 @@ See the `n` page on npms.com: https://www.npmjs.com/package/n
 For a quick update to the latest stable version:
 
 ```
-n stable
+$ n stable
 ```
 

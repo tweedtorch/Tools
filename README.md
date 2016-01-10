@@ -2,7 +2,9 @@
 
 Here's a few tools you might need:
 
- - Node.js / npm ([OSX](./nodejs.md))
- - Ruby with RVM ([OSX](./ruby.md))
-
+ - Homebrew (for [OSX](./homebrew.md))
+ - git ([OSX](./git.md))
+ - Node.js and `npm` ([OSX](./nodejs.md))
+ - Ruby with `rbenv` ([OSX](./ruby.md))
+ 
 Note: We may add Linux versions in the future.
